@@ -1,0 +1,25 @@
+﻿node_id,node_name_code,node_description,waiting_cost 
+8,110,crane node0,0
+9,120,crane node0,0
+10,130,crane node0,0
+11,140,crane node0,0
+12,150,crane node0,0
+13,160,crane node0,0
+14,170,crane node0,0
+15,180,crane node0,0
+16,111,crane node1,0
+17,121,crane node1,0
+18,131,crane node1,0
+19,141,crane node1,0
+20,151,crane node1,0
+21,161,crane node1,0
+22,171,crane node1,0
+23,181,crane node1,0
+24,112,crane node2,0
+25,122,crane node2,0
+26,132,crane node2,0
+27,142,crane node2,0
+28,152,crane node2,0
+29,162,crane node2,0
+30,172,crane node2,0
+31,182,crane node2,0
