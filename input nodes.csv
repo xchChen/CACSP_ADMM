@@ -1,0 +1,32 @@
+﻿node_name,node_id
+truck node,0
+gate node arrvial0,10
+gate node arrvial1,11
+truck node,100
+gate node departure0,20
+gate node departure1,21
+truck node,1000
+crane node0,110
+crane node0,120
+crane node0,130
+crane node0,140
+crane node0,150
+crane node0,160
+crane node0,170
+crane node0,180
+crane node1,111
+crane node1,121
+crane node1,131
+crane node1,141
+crane node1,151
+crane node1,161
+crane node1,171
+crane node1,181
+crane node2,112
+crane node2,122
+crane node2,132
+crane node2,142
+crane node2,152
+crane node2,162
+crane node2,172
+crane node2,182
